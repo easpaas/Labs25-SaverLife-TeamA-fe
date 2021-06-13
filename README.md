@@ -6,7 +6,6 @@
 https://youtu.be/AMusXTNxZqs
 # SaverLife
 
-You can find the front end deployed [here](https://a.saverlife.dev) and the back end deployed [here](https://saverlife-a-api.herokuapp.com/).
 
 ## Contributors
 
